@@ -1,0 +1,14 @@
+[
+	{
+		"nome": "Cesta top 123",
+		"preco": 12.51
+	},
+	{
+		"nome":"Cesta top 321",
+		"preco": 22.51
+	},
+	{
+		"nome":"Top cesta 231",
+		"preco": 25.51
+	}
+]
